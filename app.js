@@ -1,1 +1,1 @@
-console.log("Hello world! Lets update the container image");
+console.log("Hello world! Lets update the container image and test it");
